@@ -28,10 +28,10 @@
 ### 🎫 My github stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=truongthanhvu2337&theme=buefy&border_radius=5" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongthanhvu2337&theme=buefy&border_radius=5&hide_title=false&layout=compact&card_width=320&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongthanhvu2337&theme=buefy&border_radius=5&hide_title=false&layout=compact&card_width=320&langs_count=5" height="170"/>
 </div>
 
 ### 🎧 My spotify activites
 <div align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=zi1my2c5y1ll605hzuta617b8&count=3&width=500"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=zi1my2c5y1ll605hzuta617b8&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" />
 </div>
