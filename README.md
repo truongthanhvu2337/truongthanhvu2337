@@ -1,15 +1,15 @@
-# 🌸 Welcome to my profile
+## 🌸 Welcome to my profile
 <div align="center">
 <img width="700" height="350" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/serene-ghibli-style-anime-garden-1226412906019819551.jpeg"/>
 </div>
 
 
-# 🙋‍♂️ About myself
+## 🙋‍♂️ About myself
 <div align="center">
     Hiii, you can called me jayden, i'm currently in my third year of college, pushing myself to become a decent back-end developer in the short term and aiming to become a full-stack developer in the long term. Additionally, I'm working on cultivating a unique vibe and maintaining a healthy lifestyle. I'm also interested in fashion style, exploring ways to express myself through clothing and aesthetics
 </div>
 
-# 💻 Tech stack
+## 💻 Tech stack
 <div display="flex" align="center">
  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,13 +25,13 @@
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
-# 🎫 My github stats
+### 🎫 My github stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=truongthanhvu2337&theme=buefy&border_radius=5"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongthanhvu2337&theme=buefy&border_radius=5&count_private=true&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=truongthanhvu2337&theme=buefy&border_radius=5" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongthanhvu2337&theme=buefy&border_radius=5&hide_title=false&layout=compact&card_width=320&langs_count=6" height="170"/>
 </div>
 
-# 🎧 My spotify activites
+### 🎧 My spotify activites
 <div align="center">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=zi1my2c5y1ll605hzuta617b8&count=3&width=500"/>
 </div>
