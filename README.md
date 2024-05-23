@@ -27,8 +27,8 @@
 
 # 🎫 My github stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=truongthanhvu2337&theme=rose&border_radius=5"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongthanhvu2337&theme=rose&border_radius=5&layout=compact&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=truongthanhvu2337&theme=buefy&border_radius=5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongthanhvu2337&theme=buefy&border_radius=5&count_private=true&langs_count=6"/>
 </div>
 
 # 🎧 My spotify activites
