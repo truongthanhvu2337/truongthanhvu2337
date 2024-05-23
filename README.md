@@ -1,5 +1,5 @@
 # 🌸 Welcome to my profile
-![MasterHead](https://github.com/truongthanhvu2337/Profile/blob/main/Image/serene-ghibli-style-anime-garden-1226412906019819551.jpeg)
+<img width="700" height="300" alt="background" src="https://github.com/truongthanhvu2337/Profile/blob/main/Image/serene-ghibli-style-anime-garden-1226412906019819551.jpeg" />
 
 
 # 🙋‍♂️ About myself
@@ -24,8 +24,12 @@
 </div>
 
 # 🎫 My github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongthanhvu2337&theme=rose&border_radius=5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongthanhvu2337&theme=rose&border_radius=5&langs_count=8)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=truongthanhvu2337&theme=rose&border_radius=5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongthanhvu2337&theme=rose&border_radius=5&langs_count=6"/>
+</div>
 
 # 🎧 My spotify activites
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zi1my2c5y1ll605hzuta617b8&count=3&width=500)
+<div align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=zi1my2c5y1ll605hzuta617b8&count=3&width=500"/>
+</div>
