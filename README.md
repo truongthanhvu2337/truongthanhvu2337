@@ -1,5 +1,7 @@
 # 🌸 Welcome to my profile
-<img width="700" height="300" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/serene-ghibli-style-anime-garden-1226412906019819551.jpeg"/>
+<div align="center">
+<img width="700" height="350" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/serene-ghibli-style-anime-garden-1226412906019819551.jpeg"/>
+</div>
 
 
 # 🙋‍♂️ About myself
