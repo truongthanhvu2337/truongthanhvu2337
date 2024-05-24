@@ -1,12 +1,13 @@
 ## 🌸 Welcome to my profile
 <div align="center">
 <img width="700" height="350" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/serene-ghibli-style-anime-garden-1226412906019819551.jpeg"/>
+<i>
 </div>
 
 
 ## 🙋‍♂️ About myself
 <div align="center">
-    Hiii, you can called me jayden, i'm currently in my third year of college, pushing myself to become a decent back-end developer in the short term and aiming to become a full-stack developer in the long term. Additionally, I'm working on cultivating a unique vibe and maintaining a healthy lifestyle. I'm also interested in fashion style, exploring ways to express myself through clothing and aesthetics
+    Hiii, you can call me jayden, i'm currently in my third year of college, pushing myself to become a decent back-end developer in the short term and aiming to become a full-stack developer in the long term. Additionally, I'm working on cultivating a unique vibe and maintaining a healthy lifestyle. I'm also interested in fashion style, exploring ways to express myself through clothing and aesthetics
 </div>
 
 ## 💻 Tech stack
