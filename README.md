@@ -5,13 +5,17 @@
 
 
 ## 🙋‍♂️ About myself
-<div display="flex">
-    <p>
-    Hiii, you can call me jayden, i'm currently in my third year of college, pushing myself to become a decent back-end developer in the short term and aiming to become a full-stack developer in the long term. Additionally, I'm working on cultivating a unique vibe and maintaining a healthy lifestyle. I'm also interested in fashion style, exploring ways to express myself through clothing and aesthetics.
-    </p>
-
-    <img width="100" height="100" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"/>
+<div style="display: flex;">
+    <div style="margin-right: 20px;">
+        <p>
+            Hiii, you can call me Jayden, I'm currently in my third year of college, pushing myself to become a decent back-end developer in the short term and aiming to become a full-stack developer in the long term. Additionally, I'm working on cultivating a unique vibe and maintaining a healthy lifestyle. I'm also interested in fashion style, exploring ways to express myself through clothing and aesthetics.
+        </p>
+    </div>
+    <div>
+        <img src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="background" width="100" height="100">
+    </div>
 </div>
+
 
 ## 💻 Tech stack
 <div display="flex" align="center">
