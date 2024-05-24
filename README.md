@@ -1,12 +1,14 @@
 ## 🌸 Welcome to my profile
 <div align="center" display="flex">
-<img width="600" height="350" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/Crunchyroll_Slam-Dunk.gif"/>
+<img width="550" height="310" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/Crunchyroll_Slam-Dunk.gif"/>
 </div>
 
 
 ## 🙋‍♂️ About myself
-<div align="center" display="flex">
-    Hiii, you can call me jayden, i'm currently in my third year of college, pushing myself to become a decent back-end developer in the short term and aiming to become a full-stack developer in the long term. Additionally, I'm working on cultivating a unique vibe and maintaining a healthy lifestyle. I'm also interested in fashion style, exploring ways to express myself through clothing and aesthetics
+<div display="flex">
+    <p>
+    Hiii, you can call me jayden, i'm currently in my third year of college, pushing myself to become a decent back-end developer in the short term and aiming to become a full-stack developer in the long term. Additionally, I'm working on cultivating a unique vibe and maintaining a healthy lifestyle. I'm also interested in fashion style, exploring ways to express myself through clothing and aesthetics.
+    </p>
 
     <img width="100" height="100" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"/>
 </div>
