@@ -1,7 +1,7 @@
 ## 🌸 Welcome to my profile
 <div align="center" displat="flex">
-<img width="200" height="350" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"/>
-<img width="200" height="350" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
+<img width="300" height="350" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"/>
+<img width="300" height="350" alt="background" src="https://github.com/truongthanhvu2337/truongthanhvu2337/blob/main/Image/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
 </div>
 
 
