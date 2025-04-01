@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About myself
 <div align="center" display="flex">
-    Hiii, you can call me jayden, i'm currently in my third year of college, pushing myself to become a decent back-end developer in the short term and aiming to become a full-stack developer in the long term. Additionally, I'm working on cultivating a unique vibe and maintaining a healthy lifestyle. I'm also interested in fashion style, exploring ways to express myself through clothing and aesthetics.
+    Hi yall, you can just call me jayden, I'm currently in my final year of college, grinding skill and low level stuff to push myself to become a decent back-end developer in the current profession. Though I focus on my profession skill, I also work on cultivating a unique vibe and maintaining a healthy lifestyle (I guest) and kinda interested in fashion style.
 
 </div>
 
