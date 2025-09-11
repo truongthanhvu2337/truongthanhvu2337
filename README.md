@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About myself
 <div align="center" display="flex">
-    Hi yall, you can just call me jayden, I'm currently in my final year of college, grinding skill and low level stuff to push myself to become a decent back-end developer in the current profession. Though I focus on my profession skill, I also work on cultivating a unique vibe and maintaining a healthy lifestyle (I guest) and kinda interested in fashion style.
+    Hi, I’m Jayden. I just graduated from college and I’m grinding skills, building low-level foundations to grow into a solid Back-end or DevOps engineer. While I focus heavily on my technical path, I’m also working on cultivating my own vibe, keeping a balanced lifestyle, and exploring fashion along the way.
 
 </div>
 
@@ -38,9 +38,4 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=truongthanhvu2337&theme=buefy&border_radius=5" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongthanhvu2337&theme=buefy&border_radius=5&hide_title=false&layout=compact&card_width=320&langs_count=5" height="170"/>
-</div>
-
-### 🎧 My spotify activites
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=zi1my2c5y1ll605hzuta617b8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" height="110" />
 </div>
