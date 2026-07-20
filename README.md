@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About myself
 <div align="left" display="flex">
-    Hi, I’m Jayden. I just graduated from college and I’m grinding skills, building low-level foundations to grow into a solid Back-end or DevOps engineer. While I focus heavily on my technical path, I’m also working on cultivating my own vibe, keeping a balanced lifestyle, and exploring fashion along the way.
+    Hi, I'm Jayden. I graduated from college and I'm grinding skills, building low-level foundations to grow into a solid Data Engineer. While I focus heavily on my technical path, I'm also working on cultivating my own vibe, keeping a balanced lifestyle, and exploring fashion along the way.
 
 </div>
 
