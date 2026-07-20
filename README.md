@@ -36,6 +36,6 @@
 
 ### 🎫 My github stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=truongthanhvu2337&theme=buefy&border_radius=5" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongthanhvu2337&theme=buefy&border_radius=5&hide_title=false&layout=compact&card_width=320&langs_count=5" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=truongthanhvu2337&theme=buefy&border_radius=5" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=truongthanhvu2337&theme=buefy&border_radius=5&hide_title=false&layout=compact&card_width=320&langs_count=5" height="170"/>
 </div>
